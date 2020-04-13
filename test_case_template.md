@@ -21,7 +21,7 @@
 | valid   | valid     | Pass           |
 | valid   | in-valid  | Fail           |
 | invalid | valid     | Fail           |
-| invalid | invalid   | Fails          |
+| invalid | invalid   | Fail           |
 
 
 #### Actual Result: Re-directed to Gmail login page
