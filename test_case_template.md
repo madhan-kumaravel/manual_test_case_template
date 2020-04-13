@@ -1,4 +1,4 @@
-#### Category: Category_id 
+#### **Category**: Category_id 
 #### Test Case ID: Login 0001
 #### Test case description: Check response when valid email and password is entered for Gmail login
 #### Priority: Major
