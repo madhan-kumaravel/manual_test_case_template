@@ -14,11 +14,7 @@
 | 4 |Enter Username  | |
 | 5 |Enter Password  | |
 | 6 |Click on Sign-in button  |It should re-direct to Gmail inbox page |
-#### Actual Result 
-###### Re-directed to Gmail login page
-#### Result 
-###### Passed
-#### Notes 
-###### Tested this functionality in local enviornment
-#### Jira Ticket ID 
-###### 12345
+#### Actual Result: Re-directed to Gmail login page
+#### Result: Passed
+#### Notes: Tested this functionality in local enviornment
+#### Jira Ticket ID: 12345
