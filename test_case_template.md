@@ -1,11 +1,11 @@
-**Category:** Category_id 
-**Test Case ID:** Login 0001
-**Test case description:** Check response when valid email and password is entered for Gmail login
-**Priority:** Major
-**Prerequisite:** Already signed-up for Gmail
-**Test Data:** 
-**Username:** test_user
-**Password:** test_password
+**Category:** Category_id <br>
+**Test Case ID:** Login 0001 <br>
+**Test case description:** Check response when valid email and password is entered for Gmail login <br>
+**Priority:** Major <br>
+**Prerequisite:** Already signed-up for Gmail <br>
+**Test Data:** <br>
+**Username:** test_user <br>
+**Password:** test_password <br>
 | Steps no.| Steps Description        | Expected result  | 
 |----------|------------------        |----------------- |
 | 1         |Open browser             |                  |
@@ -24,7 +24,7 @@
 | invalid | invalid   | Fail           |
 
 
-**Actual Result:** Re-directed to Gmail login page
-**Result:** Passed
-**Notes:** Tested this functionality in local enviornment
-**Jira Ticket ID:** 12345
+**Actual Result:** Re-directed to Gmail login page <br>
+**Result:** Passed <br>
+**Notes:** Tested this functionality in local enviornment<br>
+**Jira Ticket ID:** 12345 <br>
