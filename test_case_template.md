@@ -1,13 +1,8 @@
-#### Category:
-###### Category_id 
-#### Test Case ID: 
-###### Login 0001
-#### Test case description:
-###### Check response when valid email and password is entered for Gmail login
-#### Priority 
-###### Major
-#### Prerequisite 
-###### Already signed-up for Gmail
+#### Category: Category_id 
+#### Test Case ID: Login 0001
+#### Test case description: Check response when valid email and password is entered for Gmail login
+#### Priority: Major
+#### Prerequisite: Already signed-up for Gmail
 #### Test Data 
 ###### Username: test_user
 ###### Password: test_password
